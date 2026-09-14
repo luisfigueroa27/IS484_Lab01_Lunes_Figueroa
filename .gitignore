@@ -1,0 +1,5 @@
+# Ignorar el entorno virtual
+venv_ia1/
+
+# Ignorar archivos temporales de Jupyter Notebook
+.ipynb_checkpoints/
